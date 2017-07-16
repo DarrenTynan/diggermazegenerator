@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{B09CDA49-9538-9D68-431D-C47090BE7982}") = "DiggermazeGenerator", "Assembly-CSharp.csproj", "{1B224897-4AE4-3913-6050-DD9B3EE23810}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B224897-4AE4-3913-6050-DD9B3EE23810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B224897-4AE4-3913-6050-DD9B3EE23810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B224897-4AE4-3913-6050-DD9B3EE23810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B224897-4AE4-3913-6050-DD9B3EE23810}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
